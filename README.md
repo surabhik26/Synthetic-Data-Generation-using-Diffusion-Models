@@ -5,6 +5,7 @@ This project implements a Generative AI framework using VAE, DCGAN, Diffusion Mo
 The goal is to solve data scarcity, class imbalance, and privacy concerns in dermatology.
 
 📌 Project Title
+
 Generative AI-Based Synthetic Data Generation for Skin Disease Classification Using VAE, DCGAN, Diffusion Model & Vision Transformer
 
 📘 Overview
@@ -14,11 +15,8 @@ This project performs two main tasks:
 1️⃣ Synthetic Image Generation
 
 Models:
-
 Variational Autoencoder (VAE)
-
 Deep Convolutional GAN (DCGAN)
-
 Diffusion Model
 
 2️⃣ Lesion Classification
