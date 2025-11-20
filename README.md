@@ -6,6 +6,7 @@ The goal is to solve data scarcity, class imbalance, and privacy concerns in der
 
 📌 Project Title
 Generative AI-Based Synthetic Data Generation for Skin Disease Classification Using VAE, DCGAN, Diffusion Model & Vision Transformer
+
 📘 Overview
 
 This project performs two main tasks:
@@ -27,6 +28,7 @@ Vision Transformer (ViT)
 Synthetic images are used along with real samples to improve disease classification accuracy.
 
 🧠 Implemented Models
+
 🔹 VAE
 
 Learns latent space and generates smooth reconstructed images.
@@ -68,17 +70,21 @@ tqdm
 
 
 ⚙ Installation
+
 1. Create virtual environment
+   
 python -m venv genai_env
 source genai_env/bin/activate        # Linux/Mac
 genai_env\Scripts\activate           # Windows
 
 
 2. Install dependencies
+   
 pip install -r requirements.txt
 
 
 ▶ How to Run
+
 Train VAE
 python training/train_vae.py
 
