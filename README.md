@@ -16,7 +16,9 @@ This project performs two main tasks:
 
 Models:
 Variational Autoencoder (VAE)
+
 Deep Convolutional GAN (DCGAN)
+
 Diffusion Model
 
 2️⃣ Lesion Classification
